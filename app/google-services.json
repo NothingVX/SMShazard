@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130291968785",
+    "project_id": "hazard-di",
+    "storage_bucket": "hazard-di.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130291968785:android:ed445e585cb1a896847ab0",
+        "android_client_info": {
+          "package_name": "com.example.hazard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCluX5JtCCiYGRyy-Y_LwPclMlUNHYOWzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
